@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WeekDays.js",
+  "scripts": {
+    "start": "nodemon WeekDays.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSultanBaig/HackerRank-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanSultanBaig/HackerRank-Practice/issues"
+  },
+  "homepage": "https://github.com/AmanSultanBaig/HackerRank-Practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
