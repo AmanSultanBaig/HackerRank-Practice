@@ -2,9 +2,9 @@
   "name": "hackerrank-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "WeekDays.js",
+  "main": "DataFinder.js",
   "scripts": {
-    "start": "nodemon WeekDays.js"
+    "start": "nodemon DataFinder.js"
   },
   "repository": {
     "type": "git",
